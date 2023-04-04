@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">on_boardingwalktrought</string>
+    <string name="screen1">Travel With Us</string>
+    <string name="screen2">Create amazing Traveling</string>
+    <string name="screen3">Let Go</string>
+
+
+    <string name="screen1desc">Let\'s enjoy a short tour in Egypt and Tunisia with all their beautiful landmarks and learn about the two different cultures</string>
+    <string name="screen2desc">Learn about the rapprochement between the two cultures and the magic of the past and present. </string>
+    <string name="screen3desc">Both countries are archaeological and attractive to tourists due to the natural beauty, imagination and creativity of the ancients in both countries.</string>
+    <string name="startDesc">Let\'s get to know each other very interesting countries.</string>
+
+</resources>
